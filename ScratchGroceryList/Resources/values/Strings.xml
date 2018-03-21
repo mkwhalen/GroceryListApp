@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="hello">Hello World, Click Me!</string>
+  <string name="app_name">ScratchGroceryList</string>
+  <string name="about_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec condimentum augue. Aliquam cursus turpis in quam vulputate, in commodo augue suscipit. In eleifend eu neque quis cursus. Vestibulum eget laoreet eros, aliquam ultrices nulla. Nunc vestibulum mi sollicitudin, varius sapien convallis, dictum ante. Vestibulum venenatis id risus et eleifend. Proin eu est nec sem posuere pulvinar vel in metus. Sed congue luctus lectus vitae faucibus. Proin iaculis lobortis ex, nec hendrerit lacus fermentum vitae. Ut consequat, orci condimentum euismod imperdiet, lacus purus aliquet purus, vel sollicitudin mauris erat quis magna. Integer et faucibus eros, efficitur pharetra metus. Nullam ornare molestie justo, et dapibus quam bibendum quis. Donec et semper enim.</string>
+</resources>
